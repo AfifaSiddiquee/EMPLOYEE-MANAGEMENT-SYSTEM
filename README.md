@@ -1,0 +1,1 @@
+(EMS) offers features for managing employee records, including adding, deleting, changing, searching, and listing employee data. To provide flexibility and extensibility, the system utilizes core OOP concepts such as inheritance, polymorphism, and templates, ensuring a robust and scalable solution for employee management.
